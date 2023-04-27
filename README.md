@@ -1,1 +1,1 @@
-# Js1
+# Js1 JavaScript Example 1
